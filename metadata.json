@@ -1,0 +1,6 @@
+{
+  "name": "Recobra Facilities",
+  "description": "Soluções operacionais para agilidade, controle e eficiência empresarial.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
