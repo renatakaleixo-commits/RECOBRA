@@ -48,7 +48,7 @@ export default function App() {
             </div>
             <div className="flex justify-center items-center p-4">
               <img 
-                src="https://s11.aconvert.com/convert/p3r68-cdx67/u1aau-o2653.jpg" 
+                src="https://ibb.co/99Hm2LnB" 
                 alt="Recobra Facilities" 
                 className="max-h-[500px] w-full object-contain"
                 referrerPolicy="no-referrer"
