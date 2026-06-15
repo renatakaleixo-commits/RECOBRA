@@ -12,7 +12,7 @@ export default function App() {
         <nav className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <img 
-              src="https://ibb.co/99Hm2LnB" 
+              src="https://i.ibb.co/99Hm2LnB/Recobra-Logo.png" 
               alt="Recobra Facilities Logo" 
               className="h-10 w-auto"
               referrerPolicy="no-referrer"
@@ -48,7 +48,7 @@ export default function App() {
             </div>
             <div className="flex justify-center items-center p-4">
               <img 
-                src="https://ibb.co/99Hm2LnB" 
+                src="https://i.ibb.co/99Hm2LnB/Recobra-Logo.png" 
                 alt="Recobra Facilities" 
                 className="max-h-[500px] w-full object-contain"
                 referrerPolicy="no-referrer"
@@ -80,9 +80,9 @@ export default function App() {
             <p className="text-center font-medium text-slate-500 mb-8">Parceiros estratégicos que confiam em nossa atuação:</p>
             <div className="flex flex-wrap justify-center gap-12 items-center">
               {[
-                { name: 'Localiza', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/aq6s7-9r53e.jpg' },
-                { name: 'Movida', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/a4cwi-bv8iz.jpg' },
-                { name: 'Unidas', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/avsy8-0w32w.jpg' }
+                { name: 'Localiza', url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_Localiza.png' },
+                { name: 'Movida', url: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Movida_logo.svg' },
+                { name: 'Unidas', url: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Unidas_logo.svg' }
               ].map(parceiro => (
                 <img key={parceiro.name} src={parceiro.url} alt={parceiro.name} className="h-24 w-auto object-contain" referrerPolicy="no-referrer" />
               ))}
@@ -113,9 +113,9 @@ export default function App() {
             <h2 className="text-2xl font-semibold text-slate-950 mb-10">Parceiros Estratégicos</h2>
             <div className="flex flex-wrap justify-center gap-8 items-center">
                 {[
-                  { name: 'Localiza', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/aq6s7-9r53e.jpg' },
-                  { name: 'Movida', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/a4cwi-bv8iz.jpg' },
-                  { name: 'Unidas', url: 'https://s10.aconvert.com/convert/p3r68-cdx67/avsy8-0w32w.jpg' }
+                  { name: 'Localiza', url: 'https://upload.wikimedia.org/wikipedia/commons/4/4b/Logo_Localiza.png' },
+                  { name: 'Movida', url: 'https://upload.wikimedia.org/wikipedia/commons/e/e0/Movida_logo.svg' },
+                  { name: 'Unidas', url: 'https://upload.wikimedia.org/wikipedia/commons/c/c2/Unidas_logo.svg' }
                 ].map(parceiro => (
                   parceiro.url ? (
                     <img 
@@ -152,7 +152,7 @@ export default function App() {
         <div className="max-w-7xl mx-auto px-6 py-12 grid md:grid-cols-3 gap-8 text-sm">
           <div className="space-y-4">
             <div className="flex items-center gap-2 text-white">
-                <img src="https://s11.aconvert.com/convert/p3r68-cdx67/u1aau-o2653.jpg" alt="Logo" className="h-8 w-auto" />
+                <img src="https://i.ibb.co/99Hm2LnB/Recobra-Logo.png" alt="Logo" className="h-8 w-auto" />
                 <span className="font-bold text-lg">Recobra Facilities</span>                
             </div>
             <p>Conectando pessoas, processos e resultados.</p>
