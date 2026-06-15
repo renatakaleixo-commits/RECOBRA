@@ -12,7 +12,7 @@ export default function App() {
         <nav className="max-w-7xl mx-auto px-6 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <img 
-              src="https://s11.aconvert.com/convert/p3r68-cdx67/u1aau-o2653.jpg" 
+              src="https://ibb.co/99Hm2LnB" 
               alt="Recobra Facilities Logo" 
               className="h-10 w-auto"
               referrerPolicy="no-referrer"
